@@ -1,3 +1,4 @@
 [submodule "java_ssh"]
 	path = java_ssh
 	url = https://github.com/tcruz1971/java_ssh.git
+        branch = master
